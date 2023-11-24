@@ -1,0 +1,26 @@
+body{
+    background-color: lightsalmon;
+    align-items: center;
+    text-align: center;
+
+}
+#myImage{
+    width: 300px;
+    height: auto;
+    align-items: center;
+}
+ button {
+        padding: 30px;
+        width: 250px;
+        height: auto;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    
+    button:hover {
+        background-color: #45a049;
+    }
